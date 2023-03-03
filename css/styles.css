@@ -7,7 +7,10 @@ body {
   font-size: 16px;
   line-height: 1.5;
 }
-link
+.link{
+  text-decoration: none;
+  
+}
 /* header */
 .logo {
   font-family: "Raleway", sans-serif;
@@ -17,7 +20,6 @@ link
   letter-spacing: 0.03em;
   color: #4d5ae5;
   text-transform: uppercase;
-  text-decoration: none;
 }
 .logo-top {
   font-family: "Raleway", sans-serif;
@@ -28,13 +30,13 @@ link
   color: #2e2f42;
 }
 /* Header nav */
-.link {
+.link-nav{
   list-style: none;
   color: #2e2f42;
   font-weight: 500;
 }
-.link:hover,
-.link:focus {
+.link-nav:hover,
+.link-nav:focus {
   color: #404bbf;
 }
 .mail,
