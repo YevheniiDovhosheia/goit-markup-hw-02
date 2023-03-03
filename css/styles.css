@@ -80,6 +80,7 @@ body {
   letter-spacing: 0.04em;
   color: #ffffff;
   background: #4d5ae5;
+  cursor: pointer;
 }
 .servise-but:hover,
 .servise-but:focus {
@@ -110,6 +111,7 @@ body {
   color: #4d5ae5;
   background: #f4f4fd;
   text-decoration: none;
+  cursor: pointer;
 }
 .nav-but:hover,
 .nav-but:focus {
