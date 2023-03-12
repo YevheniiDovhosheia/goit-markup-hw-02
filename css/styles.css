@@ -98,8 +98,8 @@ body {
   line-height: 1.5;
   align-items: center;
   letter-spacing: 0.04em;
-  color:var(--background);
-  background:var(--logo);
+  color: var(--background);
+  background: var(--logo);
   cursor: pointer;
 }
 .servise-but:hover,
@@ -113,7 +113,7 @@ body {
   letter-spacing: 0.02em;
   color: var(--second-text);
 }
-.section-title{
+.section-title {
   text-align: center;
   font-weight: 700;
   font-size: 36px;
@@ -128,7 +128,6 @@ body {
   letter-spacing: 0.02em;
   color: var(--text);
 }
-
 /* page-2 */
 /* Buttons */
 .nav-but {
